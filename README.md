@@ -69,11 +69,3 @@ El proyecto está listo para desplegar en cualquier servicio de hosting estátic
 - **Dominio personalizado**: El archivo `CNAME` ya está configurado para `eldesvio.xyz`.
 
 ---
-
-## 👤 Autor
-
-**Tito**
-- Correo: `pedrotitojerial@gmail.com`
-- Proyecto: [github/tu-usuario/carta-carrito](https://github.com/tu-usuario/carta-carrito)
-
----
